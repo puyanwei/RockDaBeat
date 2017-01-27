@@ -1,2 +1,0 @@
-# RockDaBeat
-Amplitude Analysis
